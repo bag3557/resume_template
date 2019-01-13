@@ -1,0 +1,26 @@
+[
+  {
+    "page_name": "About",
+    "component_name": "About"
+  },
+  {
+    "page_name": "Experience",
+    "component_name": "Experience"
+  },
+  {
+    "page_name": "Education",
+    "component_name": "Education"
+  },
+  {
+    "page_name": "Skills",
+    "component_name": "Skills"
+  },
+  {
+    "page_name": "Interests",
+    "component_name": "Interests"
+  },
+  {
+    "page_name": "Awards",
+    "component_name": "Awards"
+  }
+]
